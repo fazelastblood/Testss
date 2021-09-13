@@ -1,0 +1,18 @@
+"Stranger Things": {
+  "Characters": [
+    {
+      "ID": 1,
+      "NAME": "Eleven",
+      "SHOW AGE": "TEENS",
+      "POWERS": true,
+      "ACTOR": "Millie Bobby Brown",
+      "FEATURES": {
+        "HAIR": "Brown",
+        "EYE": "Brown",
+        "GENDER": "Female"
+      },
+      "ALIVE": true,
+      "BACKGROUND": "Lab Subject"
+    }
+  ]
+}
